@@ -3,7 +3,7 @@ import java.net.InetSocketAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class iPerfer {
+public class IPerfer {
     private static final int PACKET_SIZE = 1000;
     private static final int MIN_PORT_NUMBER = 1024;
     private static final int MAX_PORT_NUMBER = 65535;
